@@ -14,4 +14,4 @@ def countdown_with_sleep
   x -= 1 
   sleep 1.seconds
 end
-puts "Happy New Year"
+puts "HAPPY NEW YEAR!"
