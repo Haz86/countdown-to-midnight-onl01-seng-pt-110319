@@ -6,8 +6,7 @@ def countdown
   x -= 1 
 end
 puts "Happy New Year"
-end
-countdown
+
 
 def countdown_with_sleep
   x = 10 
